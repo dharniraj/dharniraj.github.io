@@ -1,4 +1,3 @@
-## Site under construction
 
 <!--
 ## Welcome to GitHub Pages
